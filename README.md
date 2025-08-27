@@ -3,14 +3,14 @@
 <h3 align="center">🎓 7th Semester CS Student at UMS | 🤖 AI Enthusiast | 💻 Full-Stack Developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+React+%7C+Next.js+Developer;YOLO+Algorithm+Specialist;Computer+Vision+Explorer;Universitas+Muhammadiyah+Surakarta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+React+%7C+Next.js+Developer;Computer+Vision+Specialist;Object+Detection+Explorer;Universitas+Muhammadiyah+Surakarta" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 **Currently focused on:** AI & Computer Vision, specializing in YOLO algorithms
+- 🎯 **Currently focused on:** AI & Computer Vision, specializing in object detection algorithms
 - 🌐 **Web Development:** Passionate about creating dynamic websites using **React** and **Next.js**
 - 🐍 **Python Lover:** Building AI models, data analysis, and automation scripts
 - 🎓 **Academic Status:** 7th semester Computer Science student at **Universitas Muhammadiyah Surakarta (UMS)**
@@ -24,10 +24,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pidhhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pidhhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pidhhh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="streak stats"/>
 </div>
 
 ---
@@ -54,7 +50,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
 
 ### 🛠️ Tools
 
@@ -68,53 +64,10 @@
 
 ---
 
-## 🎯 Current Focus
-
-### 🔬 **AI & Computer Vision**
-
-- 🎯 **YOLO Algorithm Implementation** - Object detection and real-time analysis
-- 🧠 **Deep Learning Models** - Neural networks for computer vision tasks
-- 📊 **Data Science Projects** - Machine learning and predictive analytics
-
-### 💻 **Web Development**
-
-- ⚛️ **React/Next.js Applications** - Modern, responsive web solutions
-- 🎨 **UI/UX Design** - Creating intuitive user experiences
-- 🔧 **Full-Stack Development** - End-to-end application development
-
-### 📚 **Learning & Growth**
-
-- 📖 Advanced AI algorithms and optimization techniques
-- 🚀 Cloud deployment and MLOps practices
-- 🌟 Contributing to open-source AI projects
-
----
-
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pidhhh&theme=github_dark&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pidhhh&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## 🔥 GitHub Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pidhhh&theme=github_dark" alt="GitHub Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pidhhh&theme=github_dark" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pidhhh&theme=github_dark" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pidhhh&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
